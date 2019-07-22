@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ibm.jnvmf:jnvmf:1.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/jnvmf/jnvmf/1.5/jnvmf-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/jnvmf/jnvmf/1.5/jnvmf-1.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/jnvmf/jnvmf/1.5/jnvmf-1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

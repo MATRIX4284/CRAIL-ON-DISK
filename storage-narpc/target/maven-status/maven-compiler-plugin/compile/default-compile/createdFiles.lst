@@ -1,0 +1,14 @@
+org/apache/crail/storage/tcp/TcpStorageClient.class
+org/apache/crail/storage/tcp/TcpStorageTier.class
+org/apache/crail/storage/tcp/TcpStorageRequest.class
+org/apache/crail/storage/tcp/TcpStorageProtocol.class
+org/apache/crail/storage/tcp/TcpStorageResponse$ReadResponse.class
+org/apache/crail/storage/tcp/TcpStorageResponse$WriteResponse.class
+org/apache/crail/storage/tcp/TcpStorageRequest$WriteRequest.class
+org/apache/crail/storage/tcp/TcpStorageFuture.class
+org/apache/crail/storage/tcp/TcpStorageUtils.class
+org/apache/crail/storage/tcp/TcpStorageRequest$ReadRequest.class
+org/apache/crail/storage/tcp/TcpStorageConstants.class
+org/apache/crail/storage/tcp/TcpStorageServer.class
+org/apache/crail/storage/tcp/TcpStorageEndpoint.class
+org/apache/crail/storage/tcp/TcpStorageResponse.class

@@ -1,0 +1,11 @@
+org/apache/crail/storage/nvmf/client/NvmfStorageEndpoint.class
+org/apache/crail/storage/nvmf/NvmfStorageClient.class
+org/apache/crail/storage/nvmf/client/NvmfStorageEndpoint$Operation.class
+org/apache/crail/storage/nvmf/NvmfStorageConstants.class
+org/apache/crail/storage/nvmf/client/NvmfRegisteredBufferCache.class
+org/apache/crail/storage/nvmf/client/NvmfFuture.class
+org/apache/crail/storage/nvmf/client/NvmfStagingBufferCache.class
+org/apache/crail/storage/nvmf/NvmfStorageServer.class
+org/apache/crail/storage/nvmf/client/NvmfStagingBufferCache$BufferCacheEntry.class
+org/apache/crail/storage/nvmf/NvmfStorageTier.class
+org/apache/crail/storage/nvmf/client/NvmfUnalignedWriteFuture.class

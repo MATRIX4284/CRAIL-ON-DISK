@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="crail-hdfs" />
+        <module name="crail-storage" />
+        <module name="yarn" />
+        <module name="crail-storage-nvmf" />
+        <module name="crail-storage-rdma" />
+        <module name="crail-client" />
+        <module name="crail-namenode" />
+        <module name="crail-storage-narpc" />
+        <module name="crail-rpc-narpc" />
+        <module name="crail-rpc" />
+        <module name="crail-rpc-darpc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="crail-assembly" target="1.7" />
+      <module name="crail-client" target="1.8" />
+      <module name="crail-hdfs" target="1.8" />
+      <module name="crail-namenode" target="1.8" />
+      <module name="crail-parent" target="1.7" />
+      <module name="crail-rpc" target="1.8" />
+      <module name="crail-rpc-darpc" target="1.8" />
+      <module name="crail-rpc-narpc" target="1.8" />
+      <module name="crail-storage" target="1.8" />
+      <module name="crail-storage-narpc" target="1.8" />
+      <module name="crail-storage-nvmf" target="1.8" />
+      <module name="crail-storage-rdma" target="1.8" />
+      <module name="yarn" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

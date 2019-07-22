@@ -1,0 +1,7 @@
+org/apache/crail/hdfs/tools/HdfsIOBenchmark.class
+org/apache/crail/hdfs/CrailHDFSInputStream.class
+org/apache/crail/hdfs/CrailHDFSOutputStream.class
+org/apache/crail/hdfs/CrailHDFS.class
+org/apache/crail/hdfs/CrailHDFSInputStream$CrailSeekable.class
+org/apache/crail/hdfs/GetConf.class
+org/apache/crail/hdfs/CrailHadoopFileSystem.class

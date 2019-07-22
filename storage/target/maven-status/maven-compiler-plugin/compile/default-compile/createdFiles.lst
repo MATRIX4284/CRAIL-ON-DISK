@@ -1,0 +1,5 @@
+org/apache/crail/storage/StorageResource.class
+org/apache/crail/storage/StorageRpcClient.class
+org/apache/crail/storage/StorageTier.class
+org/apache/crail/storage/StorageServer.class
+org/apache/crail/storage/StorageUtils.class

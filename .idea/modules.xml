@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/assembly/crail-assembly.iml" filepath="$PROJECT_DIR$/assembly/crail-assembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/crail-client.iml" filepath="$PROJECT_DIR$/client/crail-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdfs/crail-hdfs.iml" filepath="$PROJECT_DIR$/hdfs/crail-hdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/namenode/crail-namenode.iml" filepath="$PROJECT_DIR$/namenode/crail-namenode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crail-parent.iml" filepath="$PROJECT_DIR$/crail-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc/crail-rpc.iml" filepath="$PROJECT_DIR$/rpc/crail-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-darpc/crail-rpc-darpc.iml" filepath="$PROJECT_DIR$/rpc-darpc/crail-rpc-darpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-narpc/crail-rpc-narpc.iml" filepath="$PROJECT_DIR$/rpc-narpc/crail-rpc-narpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage/crail-storage.iml" filepath="$PROJECT_DIR$/storage/crail-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage-narpc/crail-storage-narpc.iml" filepath="$PROJECT_DIR$/storage-narpc/crail-storage-narpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage-nvmf/crail-storage-nvmf.iml" filepath="$PROJECT_DIR$/storage-nvmf/crail-storage-nvmf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage-rdma/crail-storage-rdma.iml" filepath="$PROJECT_DIR$/storage-rdma/crail-storage-rdma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yarn/yarn.iml" filepath="$PROJECT_DIR$/yarn/yarn.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assembly" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdfs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/namenode" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-darpc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-narpc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage-narpc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage-nvmf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage-rdma" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yarn" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+/home/system/CRAIL/CRAIL_BRANCH_2/apache-crail-1.1-incubating-src/hdfs/src/main/java/org/apache/crail/hdfs/CrailHDFSInputStream.java
+/home/system/CRAIL/CRAIL_BRANCH_2/apache-crail-1.1-incubating-src/hdfs/src/main/java/org/apache/crail/hdfs/GetConf.java
+/home/system/CRAIL/CRAIL_BRANCH_2/apache-crail-1.1-incubating-src/hdfs/src/main/java/org/apache/crail/hdfs/CrailHDFSOutputStream.java
+/home/system/CRAIL/CRAIL_BRANCH_2/apache-crail-1.1-incubating-src/hdfs/src/main/java/org/apache/crail/hdfs/CrailHDFS.java
+/home/system/CRAIL/CRAIL_BRANCH_2/apache-crail-1.1-incubating-src/hdfs/src/main/java/org/apache/crail/hdfs/tools/HdfsIOBenchmark.java
+/home/system/CRAIL/CRAIL_BRANCH_2/apache-crail-1.1-incubating-src/hdfs/src/main/java/org/apache/crail/hdfs/CrailHadoopFileSystem.java
